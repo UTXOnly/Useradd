@@ -1,0 +1,2627 @@
+['GUILLERMO DE LACERDA\r\n', 'ISA BIN OSMAN\r\n', 'MAO ZE DONG\r\n', 'MAO ZE MIN\r\n', 'VELIKKAKATHU SANKARAN ACHUTHANANDAN\r\n', 'ABU KARIM MUHAMMAD AL-JAMIL IBN NIDAL IBN ABDULAZIZ AL-FILISTINI\r\n', 'THAKSIN SHINAWATRA\r\n', 'BLAZE IBARRA\r\n', 'XIOMARA AGUIRRE\r\n', 'ADDYSON BENJAMIN\r\n', 'PAYTON WEBER\r\n', 'DONALD SALAZAR\r\n', 'SKYLER JEFFERSON\r\n', 'ELIANNA NGUYEN\r\n', 'AZARIA FOSTER\r\n', 'PAITYN CANTU\r\n', 'IRENE HOLDER\r\n', 'LANDYN LUTZ\r\n', 'DEEGAN ARNOLD\r\n', 'MAGDALENA MOYER\r\n', 'KELSIE PARRISH\r\n', 'ARI SNYDER\r\n', 'MARKUS CERVANTES\r\n', 'BRILEY HESS\r\n', 'SONIA SELLERS\r\n', 'CLAIRE WALLACE\r\n', 'ELLIS DAVIDSON\r\n', 'KELVIN RAYMOND\r\n', 'ROY RICHMOND\r\n', 'ALLYSON LEACH\r\n', 'SALVATORE JAMES\r\n', 'TOMMY TORRES\r\n', 'MADILYN BATES\r\n', 'ABRIL KIRK\r\n', 'ITZEL ROGERS\r\n', 'TERESA TERRY\r\n', 'CALEB HESS\r\n', 'BRIANNA PAYNE\r\n', 'ZOE HALEY\r\n', 'SHYANNE CHASE\r\n', 'KAI NAVARRO\r\n', 'MARCO MERCER\r\n', 'ERICK SANTOS\r\n', 'SHAYLEE MUNOZ\r\n', 'MAXIMO BRADFORD\r\n', 'GEMMA SALAS\r\n', 'JOSH VALENTINE\r\n', 'LEVI OWENS\r\n', 'KIERAN VILLARREAL\r\n', 'ASHER FLORES\r\n', 'MADILYN WATERS\r\n', 'KELLEN CABRERA\r\n', 'LUCY FERNANDEZ\r\n', 'BROGAN HAAS\r\n', 'EZEKIEL CONRAD\r\n', 'WHITNEY ALEXANDER\r\n', 'JORGE GRIFFIN\r\n', 'ARMANI PRICE\r\n', 'DAVID MILLS\r\n', 'MARGARET ANDREWS\r\n', 'VERONICA DOYLE\r\n', 'RAINA FERGUSON\r\n', 'SHERLYN BRENNAN\r\n', 'KALE CRAWFORD\r\n', 'STEVE SCHULTZ\r\n', 'TRISTEN JORDAN\r\n', 'ALISHA MELTON\r\n', 'WILLIAM IRWIN\r\n', 'BRAELYN HINTON\r\n', 'SEAN PETTY\r\n', 'VERONICA DAVILA\r\n', 'COLBY SANTOS\r\n', 'JEAN MEADOWS\r\n', 'JOLIE BENSON\r\n', 'EMELIA BENNETT\r\n', 'ANNALISE DELGADO\r\n', 'REECE MALONE\r\n', 'MARTIN GLOVER\r\n', 'ASHLEY DANIELS\r\n', 'JORDYN CARR\r\n', 'AINSLEY COPELAND\r\n', 'CHARLIE MURPHY\r\n', 'LEANDRO HESS\r\n', 'JAGGER SCHMITT\r\n', 'JAYLEN MORSE\r\n', 'MADELEINE BRUCE\r\n', 'NATHAN SMITH\r\n', 'MATTEO KOCH\r\n', 'RUSSELL LOPEZ\r\n', 'TYLER RAYMOND\r\n', 'JADA RAYMOND\r\n', 'SEAMUS ADAMS\r\n', 'KIERSTEN BALDWIN\r\n', 'ISLA KANE\r\n', 'ZACHERY HANNA\r\n', 'ADELINE BURNETT\r\n', 'MOHAMED HOOVER\r\n', 'JASLYN TYLER\r\n', 'GEORGIA MAYER\r\n', 'JENNY ONEILL\r\n', 'IRIS MULLEN\r\n', 'KASON FRANKLIN\r\n', 'MAGGIE STEELE\r\n', 'LAURYN KLEIN\r\n', 'DESTINEE BERRY\r\n', 'DAMIAN SCHAEFER\r\n', 'THALIA BOONE\r\n', 'RANDALL WOODWARD\r\n', 'MATIAS LEONARD\r\n', 'JULIUS MALDONADO\r\n', 'FRANKLIN LINDSEY\r\n', 'AMIRA WU\r\n', 'RICKY HURLEY\r\n', 'HAMZA EATON\r\n', 'CASH ZUNIGA\r\n', 'JEREMY ONEAL\r\n', 'BLAKE MARTINEZ\r\n', 'ARACELI AVILA\r\n', 'ABBY WU\r\n']
+J.CHAN
+('added', 'J.CHAN')
+R.HEST
+('added', 'R.HEST')
+C.MOON
+('added', 'C.MOON')
+M.GIBS
+('added', 'M.GIBS')
+E.HARR
+('added', 'E.HARR')
+P.GREE
+('added', 'P.GREE')
+H.HAWK
+('added', 'H.HAWK')
+M.MCCO
+('added', 'M.MCCO')
+J.GONZ
+('added', 'J.GONZ')
+D.BLAC
+('added', 'D.BLAC')
+P.SHEP
+('added', 'P.SHEP')
+S.SHIE
+('added', 'S.SHIE')
+H.WELC
+('added', 'H.WELC')
+K.REID
+('added', 'K.REID')
+D.MUEL
+('added', 'D.MUEL')
+N.ROSS
+('added', 'N.ROSS')
+P.SCHR
+('added', 'P.SCHR')
+C.GUER
+('added', 'C.GUER')
+T.MADD
+('added', 'T.MADD')
+K.LONG
+('added', 'K.LONG')
+C.NUNE
+('added', 'C.NUNE')
+M.BULL
+('added', 'M.BULL')
+L.PAGE
+('added', 'L.PAGE')
+M.HALE
+('added', 'M.HALE')
+A.LEST
+('added', 'A.LEST')
+C.KEMP
+('added', 'C.KEMP')
+L.EDWA
+('added', 'L.EDWA')
+D.VELE
+('added', 'D.VELE')
+L.GRIM
+('added', 'L.GRIM')
+J.HORN
+('added', 'J.HORN')
+W.RIVA
+('added', 'W.RIVA')
+A.NASH
+('added', 'A.NASH')
+K.MATT
+('added', 'K.MATT')
+A.MADD
+('added', 'A.MADD')
+J.PINE
+('added', 'J.PINE')
+A.SALI
+('added', 'A.SALI')
+A.DODS
+('added', 'A.DODS')
+Z.MILL
+('added', 'Z.MILL')
+H.BLEV
+('added', 'H.BLEV')
+J.MAHO
+('added', 'J.MAHO')
+Z.PATR
+('added', 'Z.PATR')
+M.PHAM
+('added', 'M.PHAM')
+B.OSBO
+('added', 'B.OSBO')
+L.BELL
+('added', 'L.BELL')
+K.MCCO
+('added', 'K.MCCO')
+J.SIMO
+('added', 'J.SIMO')
+K.DONO
+('added', 'K.DONO')
+Y.CARP
+('added', 'Y.CARP')
+J.NORR
+('added', 'J.NORR')
+N.CLAR
+('added', 'N.CLAR')
+K.MORE
+('added', 'K.MORE')
+G.ROLL
+('added', 'G.ROLL')
+J.CASE
+('added', 'J.CASE')
+E.VILL
+('added', 'E.VILL')
+M.FARR
+('added', 'M.FARR')
+J.HARD
+('added', 'J.HARD')
+T.COLO
+('added', 'T.COLO')
+R.SING
+('added', 'R.SING')
+S.WILL
+('added', 'S.WILL')
+K.LAND
+('added', 'K.LAND')
+I.HANS
+('added', 'I.HANS')
+D.NORR
+('added', 'D.NORR')
+R.FAUL
+('added', 'R.FAUL')
+A.MADD
+('added', 'A.MADD')
+O.CANT
+('added', 'O.CANT')
+T.HOOV
+('added', 'T.HOOV')
+T.HUGH
+('added', 'T.HUGH')
+T.HARR
+('added', 'T.HARR')
+C.SILV
+('added', 'C.SILV')
+J.LYON
+('added', 'J.LYON')
+J.BEAR
+('added', 'J.BEAR')
+C.NICH
+('added', 'C.NICH')
+A.MAYS
+('added', 'A.MAYS')
+C.ANDR
+('added', 'C.ANDR')
+H.LITT
+('added', 'H.LITT')
+J.MCLA
+('added', 'J.MCLA')
+R.DUNC
+('added', 'R.DUNC')
+J.MERR
+('added', 'J.MERR')
+S.LUTZ
+('added', 'S.LUTZ')
+T.DUNN
+('added', 'T.DUNN')
+D.LAM
+('added', 'D.LAM')
+C.STAF
+('added', 'C.STAF')
+D.DODS
+('added', 'D.DODS')
+K.WILL
+('added', 'K.WILL')
+N.EWIN
+('added', 'N.EWIN')
+J.RAMO
+('added', 'J.RAMO')
+J.SPEA
+('added', 'J.SPEA')
+S.MALO
+('added', 'S.MALO')
+L.SWEE
+('added', 'L.SWEE')
+X.LEE
+('added', 'X.LEE')
+C.NOLA
+('added', 'C.NOLA')
+R.RIGG
+('added', 'R.RIGG')
+F.PENA
+('added', 'F.PENA')
+T.ROWL
+('added', 'T.ROWL')
+S.OCHO
+('added', 'S.OCHO')
+E.SOTO
+('added', 'E.SOTO')
+V.SELL
+('added', 'V.SELL')
+B.WHIT
+('added', 'B.WHIT')
+J.BOWE
+('added', 'J.BOWE')
+G.SCOT
+('added', 'G.SCOT')
+M.LEON
+('added', 'M.LEON')
+G.LACE
+('added', 'G.LACE')
+I.OSMA
+('added', 'I.OSMA')
+M.DONG
+('added', 'M.DONG')
+M.MIN
+('added', 'M.MIN')
+V.ACHU
+('added', 'V.ACHU')
+A.AL-F
+('added', 'A.AL-F')
+T.SHIN
+('added', 'T.SHIN')
+B.IBAR
+('added', 'B.IBAR')
+X.AGUI
+('added', 'X.AGUI')
+A.BENJ
+('added', 'A.BENJ')
+P.WEBE
+('added', 'P.WEBE')
+D.SALA
+('added', 'D.SALA')
+S.JEFF
+('added', 'S.JEFF')
+E.NGUY
+('added', 'E.NGUY')
+A.FOST
+('added', 'A.FOST')
+P.CANT
+('added', 'P.CANT')
+I.HOLD
+('added', 'I.HOLD')
+L.LUTZ
+('added', 'L.LUTZ')
+D.ARNO
+('added', 'D.ARNO')
+M.MOYE
+('added', 'M.MOYE')
+K.PARR
+('added', 'K.PARR')
+A.SNYD
+('added', 'A.SNYD')
+M.CERV
+('added', 'M.CERV')
+B.HESS
+('added', 'B.HESS')
+S.SELL
+('added', 'S.SELL')
+C.WALL
+('added', 'C.WALL')
+E.DAVI
+('added', 'E.DAVI')
+K.RAYM
+('added', 'K.RAYM')
+R.RICH
+('added', 'R.RICH')
+A.LEAC
+('added', 'A.LEAC')
+S.JAME
+('added', 'S.JAME')
+T.TORR
+('added', 'T.TORR')
+M.BATE
+('added', 'M.BATE')
+A.KIRK
+('added', 'A.KIRK')
+I.ROGE
+('added', 'I.ROGE')
+T.TERR
+('added', 'T.TERR')
+C.HESS
+('added', 'C.HESS')
+B.PAYN
+('added', 'B.PAYN')
+Z.HALE
+('added', 'Z.HALE')
+S.CHAS
+('added', 'S.CHAS')
+K.NAVA
+('added', 'K.NAVA')
+M.MERC
+('added', 'M.MERC')
+E.SANT
+('added', 'E.SANT')
+S.MUNO
+('added', 'S.MUNO')
+M.BRAD
+('added', 'M.BRAD')
+G.SALA
+('added', 'G.SALA')
+J.VALE
+('added', 'J.VALE')
+L.OWEN
+('added', 'L.OWEN')
+K.VILL
+('added', 'K.VILL')
+A.FLOR
+('added', 'A.FLOR')
+M.WATE
+('added', 'M.WATE')
+K.CABR
+('added', 'K.CABR')
+L.FERN
+('added', 'L.FERN')
+B.HAAS
+('added', 'B.HAAS')
+E.CONR
+('added', 'E.CONR')
+W.ALEX
+('added', 'W.ALEX')
+J.GRIF
+('added', 'J.GRIF')
+A.PRIC
+('added', 'A.PRIC')
+D.MILL
+('added', 'D.MILL')
+M.ANDR
+('added', 'M.ANDR')
+V.DOYL
+('added', 'V.DOYL')
+R.FERG
+('added', 'R.FERG')
+S.BREN
+('added', 'S.BREN')
+K.CRAW
+('added', 'K.CRAW')
+S.SCHU
+('added', 'S.SCHU')
+T.JORD
+('added', 'T.JORD')
+A.MELT
+('added', 'A.MELT')
+W.IRWI
+('added', 'W.IRWI')
+B.HINT
+('added', 'B.HINT')
+S.PETT
+('added', 'S.PETT')
+V.DAVI
+('added', 'V.DAVI')
+C.SANT
+('added', 'C.SANT')
+J.MEAD
+('added', 'J.MEAD')
+J.BENS
+('added', 'J.BENS')
+E.BENN
+('added', 'E.BENN')
+A.DELG
+('added', 'A.DELG')
+R.MALO
+('added', 'R.MALO')
+M.GLOV
+('added', 'M.GLOV')
+A.DANI
+('added', 'A.DANI')
+J.CARR
+('added', 'J.CARR')
+A.COPE
+('added', 'A.COPE')
+C.MURP
+('added', 'C.MURP')
+L.HESS
+('added', 'L.HESS')
+J.SCHM
+('added', 'J.SCHM')
+J.MORS
+('added', 'J.MORS')
+M.BRUC
+('added', 'M.BRUC')
+N.SMIT
+('added', 'N.SMIT')
+M.KOCH
+('added', 'M.KOCH')
+R.LOPE
+('added', 'R.LOPE')
+T.RAYM
+('added', 'T.RAYM')
+J.RAYM
+('added', 'J.RAYM')
+S.ADAM
+('added', 'S.ADAM')
+K.BALD
+('added', 'K.BALD')
+I.KANE
+('added', 'I.KANE')
+Z.HANN
+('added', 'Z.HANN')
+A.BURN
+('added', 'A.BURN')
+M.HOOV
+('added', 'M.HOOV')
+J.TYLE
+('added', 'J.TYLE')
+G.MAYE
+('added', 'G.MAYE')
+J.ONEI
+('added', 'J.ONEI')
+I.MULL
+('added', 'I.MULL')
+K.FRAN
+('added', 'K.FRAN')
+M.STEE
+('added', 'M.STEE')
+L.KLEI
+('added', 'L.KLEI')
+D.BERR
+('added', 'D.BERR')
+D.SCHA
+('added', 'D.SCHA')
+T.BOON
+('added', 'T.BOON')
+R.WOORemoving user `J.CHAN' ...
+Warning: group `J.CHAN' has no more members.
+Done.
+Removing user `R.HEST' ...
+Warning: group `R.HEST' has no more members.
+Done.
+Removing user `C.MOON' ...
+Warning: group `C.MOON' has no more members.
+Done.
+Removing user `M.GIBS' ...
+Warning: group `M.GIBS' has no more members.
+Done.
+Removing user `E.HARR' ...
+Warning: group `E.HARR' has no more members.
+Done.
+Removing user `P.GREE' ...
+Warning: group `P.GREE' has no more members.
+Done.
+Removing user `H.HAWK' ...
+Warning: group `H.HAWK' has no more members.
+Done.
+Removing user `M.MCCO' ...
+Warning: group `M.MCCO' has no more members.
+Done.
+Removing user `J.GONZ' ...
+Warning: group `J.GONZ' has no more members.
+Done.
+Removing user `D.BLAC' ...
+Warning: group `D.BLAC' has no more members.
+Done.
+Removing user `P.SHEP' ...
+Warning: group `P.SHEP' has no more members.
+Done.
+Removing user `S.SHIE' ...
+Warning: group `S.SHIE' has no more members.
+Done.
+Removing user `H.WELC' ...
+Warning: group `H.WELC' has no more members.
+Done.
+Removing user `K.REID' ...
+Warning: group `K.REID' has no more members.
+Done.
+Removing user `D.MUEL' ...
+Warning: group `D.MUEL' has no more members.
+Done.
+Removing user `N.ROSS' ...
+Warning: group `N.ROSS' has no more members.
+Done.
+Removing user `P.SCHR' ...
+Warning: group `P.SCHR' has no more members.
+Done.
+Removing user `C.GUER' ...
+Warning: group `C.GUER' has no more members.
+Done.
+Removing user `T.MADD' ...
+Warning: group `T.MADD' has no more members.
+Done.
+Removing user `K.LONG' ...
+Warning: group `K.LONG' has no more members.
+Done.
+Removing user `C.NUNE' ...
+Warning: group `C.NUNE' has no more members.
+Done.
+Removing user `M.BULL' ...
+Warning: group `M.BULL' has no more members.
+Done.
+Removing user `L.PAGE' ...
+Warning: group `L.PAGE' has no more members.
+Done.
+Removing user `M.HALE' ...
+Warning: group `M.HALE' has no more members.
+Done.
+Removing user `A.LEST' ...
+Warning: group `A.LEST' has no more members.
+Done.
+Removing user `C.KEMP' ...
+Warning: group `C.KEMP' has no more members.
+Done.
+Removing user `L.EDWA' ...
+Warning: group `L.EDWA' has no more members.
+Done.
+Removing user `D.VELE' ...
+Warning: group `D.VELE' has no more members.
+Done.
+Removing user `L.GRIM' ...
+Warning: group `L.GRIM' has no more members.
+Done.
+Removing user `J.HORN' ...
+Warning: group `J.HORN' has no more members.
+Done.
+Removing user `W.RIVA' ...
+Warning: group `W.RIVA' has no more members.
+Done.
+Removing user `A.NASH' ...
+Warning: group `A.NASH' has no more members.
+Done.
+Removing user `K.MATT' ...
+Warning: group `K.MATT' has no more members.
+Done.
+Removing user `A.MADD' ...
+Warning: group `A.MADD' has no more members.
+Done.
+Removing user `J.PINE' ...
+Warning: group `J.PINE' has no more members.
+Done.
+Removing user `A.SALI' ...
+Warning: group `A.SALI' has no more members.
+Done.
+Removing user `A.DODS' ...
+Warning: group `A.DODS' has no more members.
+Done.
+Removing user `Z.MILL' ...
+Warning: group `Z.MILL' has no more members.
+Done.
+Removing user `H.BLEV' ...
+Warning: group `H.BLEV' has no more members.
+Done.
+Removing user `J.MAHO' ...
+Warning: group `J.MAHO' has no more members.
+Done.
+Removing user `Z.PATR' ...
+Warning: group `Z.PATR' has no more members.
+Done.
+Removing user `M.PHAM' ...
+Warning: group `M.PHAM' has no more members.
+Done.
+Removing user `B.OSBO' ...
+Warning: group `B.OSBO' has no more members.
+Done.
+Removing user `L.BELL' ...
+Warning: group `L.BELL' has no more members.
+Done.
+Removing user `K.MCCO' ...
+Warning: group `K.MCCO' has no more members.
+Done.
+Removing user `J.SIMO' ...
+Warning: group `J.SIMO' has no more members.
+Done.
+Removing user `K.DONO' ...
+Warning: group `K.DONO' has no more members.
+Done.
+Removing user `Y.CARP' ...
+Warning: group `Y.CARP' has no more members.
+Done.
+Removing user `J.NORR' ...
+Warning: group `J.NORR' has no more members.
+Done.
+Removing user `N.CLAR' ...
+Warning: group `N.CLAR' has no more members.
+Done.
+Removing user `K.MORE' ...
+Warning: group `K.MORE' has no more members.
+Done.
+Removing user `G.ROLL' ...
+Warning: group `G.ROLL' has no more members.
+Done.
+Removing user `J.CASE' ...
+Warning: group `J.CASE' has no more members.
+Done.
+Removing user `E.VILL' ...
+Warning: group `E.VILL' has no more members.
+Done.
+Removing user `M.FARR' ...
+Warning: group `M.FARR' has no more members.
+Done.
+Removing user `J.HARD' ...
+Warning: group `J.HARD' has no more members.
+Done.
+Removing user `T.COLO' ...
+Warning: group `T.COLO' has no more members.
+Done.
+Removing user `R.SING' ...
+Warning: group `R.SING' has no more members.
+Done.
+Removing user `S.WILL' ...
+Warning: group `S.WILL' has no more members.
+Done.
+Removing user `K.LAND' ...
+Warning: group `K.LAND' has no more members.
+Done.
+Removing user `I.HANS' ...
+Warning: group `I.HANS' has no more members.
+Done.
+Removing user `D.NORR' ...
+Warning: group `D.NORR' has no more members.
+Done.
+Removing user `R.FAUL' ...
+Warning: group `R.FAUL' has no more members.
+Done.
+Removing user `O.CANT' ...
+Warning: group `O.CANT' has no more members.
+Done.
+Removing user `T.HOOV' ...
+Warning: group `T.HOOV' has no more members.
+Done.
+Removing user `T.HUGH' ...
+Warning: group `T.HUGH' has no more members.
+Done.
+Removing user `T.HARR' ...
+Warning: group `T.HARR' has no more members.
+Done.
+Removing user `C.SILV' ...
+Warning: group `C.SILV' has no more members.
+Done.
+Removing user `J.LYON' ...
+Warning: group `J.LYON' has no more members.
+Done.
+Removing user `J.BEAR' ...
+Warning: group `J.BEAR' has no more members.
+Done.
+Removing user `C.NICH' ...
+Warning: group `C.NICH' has no more members.
+Done.
+Removing user `A.MAYS' ...
+Warning: group `A.MAYS' has no more members.
+Done.
+Removing user `C.ANDR' ...
+Warning: group `C.ANDR' has no more members.
+Done.
+Removing user `H.LITT' ...
+Warning: group `H.LITT' has no more members.
+Done.
+Removing user `J.MCLA' ...
+Warning: group `J.MCLA' has no more members.
+Done.
+Removing user `R.DUNC' ...
+Warning: group `R.DUNC' has no more members.
+Done.
+Removing user `J.MERR' ...
+Warning: group `J.MERR' has no more members.
+Done.
+Removing user `S.LUTZ' ...
+Warning: group `S.LUTZ' has no more members.
+Done.
+Removing user `T.DUNN' ...
+Warning: group `T.DUNN' has no more members.
+Done.
+Removing user `D.LAM' ...
+Warning: group `D.LAM' has no more members.
+Done.
+Removing user `C.STAF' ...
+Warning: group `C.STAF' has no more members.
+Done.
+Removing user `D.DODS' ...
+Warning: group `D.DODS' has no more members.
+Done.
+Removing user `K.WILL' ...
+Warning: group `K.WILL' has no more members.
+Done.
+Removing user `N.EWIN' ...
+Warning: group `N.EWIN' has no more members.
+Done.
+Removing user `J.RAMO' ...
+Warning: group `J.RAMO' has no more members.
+Done.
+Removing user `J.SPEA' ...
+Warning: group `J.SPEA' has no more members.
+Done.
+Removing user `S.MALO' ...
+Warning: group `S.MALO' has no more members.
+Done.
+Removing user `L.SWEE' ...
+Warning: group `L.SWEE' has no more members.
+Done.
+Removing user `X.LEE' ...
+Warning: group `X.LEE' has no more members.
+Done.
+Removing user `C.NOLA' ...
+Warning: group `C.NOLA' has no more members.
+Done.
+Removing user `R.RIGG' ...
+Warning: group `R.RIGG' has no more members.
+Done.
+Removing user `F.PENA' ...
+Warning: group `F.PENA' has no more members.
+Done.
+Removing user `T.ROWL' ...
+Warning: group `T.ROWL' has no more members.
+Done.
+Removing user `S.OCHO' ...
+Warning: group `S.OCHO' has no more members.
+Done.
+Removing user `E.SOTO' ...
+Warning: group `E.SOTO' has no more members.
+Done.
+Removing user `V.SELL' ...
+Warning: group `V.SELL' has no more members.
+Done.
+Removing user `B.WHIT' ...
+Warning: group `B.WHIT' has no more members.
+Done.
+Removing user `J.BOWE' ...
+Warning: group `J.BOWE' has no more members.
+Done.
+Removing user `G.SCOT' ...
+Warning: group `G.SCOT' has no more members.
+Done.
+Removing user `M.LEON' ...
+Warning: group `M.LEON' has no more members.
+Done.
+Removing user `G.LACE' ...
+Warning: group `G.LACE' has no more members.
+Done.
+Removing user `I.OSMA' ...
+Warning: group `I.OSMA' has no more members.
+Done.
+Removing user `M.DONG' ...
+Warning: group `M.DONG' has no more members.
+Done.
+Removing user `M.MIN' ...
+Warning: group `M.MIN' has no more members.
+Done.
+Removing user `V.ACHU' ...
+Warning: group `V.ACHU' has no more members.
+Done.
+Removing user `A.AL-F' ...
+Warning: group `A.AL-F' has no more members.
+Done.
+Removing user `T.SHIN' ...
+Warning: group `T.SHIN' has no more members.
+Done.
+Removing user `B.IBAR' ...
+Warning: group `B.IBAR' has no more members.
+Done.
+Removing user `X.AGUI' ...
+Warning: group `X.AGUI' has no more members.
+Done.
+Removing user `A.BENJ' ...
+Warning: group `A.BENJ' has no more members.
+Done.
+Removing user `P.WEBE' ...
+Warning: group `P.WEBE' has no more members.
+Done.
+Removing user `D.SALA' ...
+Warning: group `D.SALA' has no more members.
+Done.
+Removing user `S.JEFF' ...
+Warning: group `S.JEFF' has no more members.
+Done.
+Removing user `E.NGUY' ...
+Warning: group `E.NGUY' has no more members.
+Done.
+Removing user `A.FOST' ...
+Warning: group `A.FOST' has no more members.
+Done.
+Removing user `P.CANT' ...
+Warning: group `P.CANT' has no more members.
+Done.
+Removing user `I.HOLD' ...
+Warning: group `I.HOLD' has no more members.
+Done.
+Removing user `L.LUTZ' ...
+Warning: group `L.LUTZ' has no more members.
+Done.
+Removing user `D.ARNO' ...
+Warning: group `D.ARNO' has no more members.
+Done.
+Removing user `M.MOYE' ...
+Warning: group `M.MOYE' has no more members.
+Done.
+Removing user `K.PARR' ...
+Warning: group `K.PARR' has no more members.
+Done.
+Removing user `A.SNYD' ...
+Warning: group `A.SNYD' has no more members.
+Done.
+Removing user `M.CERV' ...
+Warning: group `M.CERV' has no more members.
+Done.
+Removing user `B.HESS' ...
+Warning: group `B.HESS' has no more members.
+Done.
+Removing user `S.SELL' ...
+Warning: group `S.SELL' has no more members.
+Done.
+Removing user `C.WALL' ...
+Warning: group `C.WALL' has no more members.
+Done.
+Removing user `E.DAVI' ...
+Warning: group `E.DAVI' has no more members.
+Done.
+Removing user `K.RAYM' ...
+Warning: group `K.RAYM' has no more members.
+Done.
+Removing user `R.RICH' ...
+Warning: group `R.RICH' has no more members.
+Done.
+Removing user `A.LEAC' ...
+Warning: group `A.LEAC' has no more members.
+Done.
+Removing user `S.JAME' ...
+Warning: group `S.JAME' has no more members.
+Done.
+Removing user `T.TORR' ...
+Warning: group `T.TORR' has no more members.
+Done.
+Removing user `M.BATE' ...
+Warning: group `M.BATE' has no more members.
+Done.
+Removing user `A.KIRK' ...
+Warning: group `A.KIRK' has no more members.
+Done.
+Removing user `I.ROGE' ...
+Warning: group `I.ROGE' has no more members.
+Done.
+Removing user `T.TERR' ...
+Warning: group `T.TERR' has no more members.
+Done.
+Removing user `C.HESS' ...
+Warning: group `C.HESS' has no more members.
+Done.
+Removing user `B.PAYN' ...
+Warning: group `B.PAYN' has no more members.
+Done.
+Removing user `Z.HALE' ...
+Warning: group `Z.HALE' has no more members.
+Done.
+Removing user `S.CHAS' ...
+Warning: group `S.CHAS' has no more members.
+Done.
+Removing user `K.NAVA' ...
+Warning: group `K.NAVA' has no more members.
+Done.
+Removing user `M.MERC' ...
+Warning: group `M.MERC' has no more members.
+Done.
+Removing user `E.SANT' ...
+Warning: group `E.SANT' has no more members.
+Done.
+Removing user `S.MUNO' ...
+Warning: group `S.MUNO' has no more members.
+Done.
+Removing user `M.BRAD' ...
+Warning: group `M.BRAD' has no more members.
+Done.
+Removing user `G.SALA' ...
+Warning: group `G.SALA' has no more members.
+Done.
+Removing user `J.VALE' ...
+Warning: group `J.VALE' has no more members.
+Done.
+Removing user `L.OWEN' ...
+Warning: group `L.OWEN' has no more members.
+Done.
+Removing user `K.VILL' ...
+Warning: group `K.VILL' has no more members.
+Done.
+Removing user `A.FLOR' ...
+Warning: group `A.FLOR' has no more members.
+Done.
+Removing user `M.WATE' ...
+Warning: group `M.WATE' has no more members.
+Done.
+Removing user `K.CABR' ...
+Warning: group `K.CABR' has no more members.
+Done.
+Removing user `L.FERN' ...
+Warning: group `L.FERN' has no more members.
+Done.
+Removing user `B.HAAS' ...
+Warning: group `B.HAAS' has no more members.
+Done.
+Removing user `E.CONR' ...
+Warning: group `E.CONR' has no more members.
+Done.
+Removing user `W.ALEX' ...
+Warning: group `W.ALEX' has no more members.
+Done.
+Removing user `J.GRIF' ...
+Warning: group `J.GRIF' has no more members.
+Done.
+Removing user `A.PRIC' ...
+Warning: group `A.PRIC' has no more members.
+Done.
+Removing user `D.MILL' ...
+Warning: group `D.MILL' has no more members.
+Done.
+Removing user `M.ANDR' ...
+Warning: group `M.ANDR' has no more members.
+Done.
+Removing user `V.DOYL' ...
+Warning: group `V.DOYL' has no more members.
+Done.
+Removing user `R.FERG' ...
+Warning: group `R.FERG' has no more members.
+Done.
+Removing user `S.BREN' ...
+Warning: group `S.BREN' has no more members.
+Done.
+Removing user `K.CRAW' ...
+Warning: group `K.CRAW' has no more members.
+Done.
+Removing user `S.SCHU' ...
+Warning: group `S.SCHU' has no more members.
+Done.
+Removing user `T.JORD' ...
+Warning: group `T.JORD' has no more members.
+Done.
+Removing user `A.MELT' ...
+Warning: group `A.MELT' has no more members.
+Done.
+Removing user `W.IRWI' ...
+Warning: group `W.IRWI' has no more members.
+Done.
+Removing user `B.HINT' ...
+Warning: group `B.HINT' has no more members.
+Done.
+Removing user `S.PETT' ...
+Warning: group `S.PETT' has no more members.
+Done.
+Removing user `V.DAVI' ...
+Warning: group `V.DAVI' has no more members.
+Done.
+Removing user `C.SANT' ...
+Warning: group `C.SANT' has no more members.
+Done.
+Removing user `J.MEAD' ...
+Warning: group `J.MEAD' has no more members.
+Done.
+Removing user `J.BENS' ...
+Warning: group `J.BENS' has no more members.
+Done.
+Removing user `E.BENN' ...
+Warning: group `E.BENN' has no more members.
+Done.
+Removing user `A.DELG' ...
+Warning: group `A.DELG' has no more members.
+Done.
+Removing user `R.MALO' ...
+Warning: group `R.MALO' has no more members.
+Done.
+Removing user `M.GLOV' ...
+Warning: group `M.GLOV' has no more members.
+Done.
+Removing user `A.DANI' ...
+Warning: group `A.DANI' has no more members.
+Done.
+Removing user `J.CARR' ...
+Warning: group `J.CARR' has no more members.
+Done.
+Removing user `A.COPE' ...
+Warning: group `A.COPE' has no more members.
+Done.
+Removing user `C.MURP' ...
+Warning: group `C.MURP' has no more members.
+Done.
+Removing user `L.HESS' ...
+Warning: group `L.HESS' has no more members.
+Done.
+Removing user `J.SCHM' ...
+Warning: group `J.SCHM' has no more members.
+Done.
+Removing user `J.MORS' ...
+Warning: group `J.MORS' has no more members.
+Done.
+Removing user `M.BRUC' ...
+Warning: group `M.BRUC' has no more members.
+Done.
+Removing user `N.SMIT' ...
+Warning: group `N.SMIT' has no more members.
+Done.
+Removing user `M.KOCH' ...
+Warning: group `M.KOCH' has no more members.
+Done.
+Removing user `R.LOPE' ...
+Warning: group `R.LOPE' has no more members.
+Done.
+Removing user `T.RAYM' ...
+Warning: group `T.RAYM' has no more members.
+Done.
+Removing user `J.RAYM' ...
+Warning: group `J.RAYM' has no more members.
+Done.
+Removing user `S.ADAM' ...
+Warning: group `S.ADAM' has no more members.
+Done.
+Removing user `K.BALD' ...
+Warning: group `K.BALD' has no more members.
+Done.
+Removing user `I.KANE' ...
+Warning: group `I.KANE' has no more members.
+Done.
+Removing user `Z.HANN' ...
+Warning: group `Z.HANN' has no more members.
+Done.
+Removing user `A.BURN' ...
+Warning: group `A.BURN' has no more members.
+Done.
+Removing user `M.HOOV' ...
+Warning: group `M.HOOV' has no more members.
+Done.
+Removing user `J.TYLE' ...
+Warning: group `J.TYLE' has no more members.
+Done.
+Removing user `G.MAYE' ...
+Warning: group `G.MAYE' has no more members.
+Done.
+Removing user `J.ONEI' ...
+Warning: group `J.ONEI' has no more members.
+Done.
+Removing user `I.MULL' ...
+Warning: group `I.MULL' has no more members.
+Done.
+Removing user `K.FRAN' ...
+Warning: group `K.FRAN' has no more members.
+Done.
+Removing user `M.STEE' ...
+Warning: group `M.STEE' has no more members.
+Done.
+Removing user `L.KLEI' ...
+Warning: group `L.KLEI' has no more members.
+Done.
+Removing user `D.BERR' ...
+Warning: group `D.BERR' has no more members.
+Done.
+Removing user `D.SCHA' ...
+Warning: group `D.SCHA' has no more members.
+Done.
+Removing user `T.BOON' ...
+Warning: group `T.BOON' has no more members.
+Done.
+Removing user `R.WOOD' ...
+Warning: group `R.WOOD' has no more members.
+Done.
+Removing user `J.MALD' ...
+Warning: group `J.MALD' has no more members.
+Done.
+Removing user `F.LIND' ...
+Warning: group `F.LIND' has no more members.
+Done.
+Removing user `A.WU' ...
+Warning: group `A.WU' has no more members.
+Done.
+Removing user `R.HURL' ...
+Warning: group `R.HURL' has no more members.
+Done.
+Removing user `H.EATO' ...
+Warning: group `H.EATO' has no more members.
+Done.
+Removing user `C.ZUNI' ...
+Warning: group `C.ZUNI' has no more members.
+Done.
+Removing user `J.ONEA' ...
+Warning: group `J.ONEA' has no more members.
+Done.
+Removing user `B.MART' ...
+Warning: group `B.MART' has no more members.
+Done.
+Removing user `A.AVIL' ...
+Warning: group `A.AVIL' has no more members.
+Done.
+D
+('added', 'R.WOOD')
+M.LEON
+('added', 'M.LEON')
+J.MALD
+('added', 'J.MALD')
+F.LIND
+('added', 'F.LIND')
+A.WU
+('added', 'A.WU')
+R.HURL
+('added', 'R.HURL')
+H.EATO
+('added', 'H.EATO')
+C.ZUNI
+('added', 'C.ZUNI')
+J.ONEA
+('added', 'J.ONEA')
+B.MART
+('added', 'B.MART')
+A.AVIL
+('added', 'A.AVIL')
+A.WU
+('added', 'A.WU')
+['GUILLERMO DE LACERDA\r\n', 'ISA BIN OSMAN\r\n', 'MAO ZE DONG\r\n', 'MAO ZE MIN\r\n', 'VELIKKAKATHU SANKARAN ACHUTHANANDAN\r\n', 'ABU KARIM MUHAMMAD AL-JAMIL IBN NIDAL IBN ABDULAZIZ AL-FILISTINI\r\n', 'THAKSIN SHINAWATRA\r\n', 'BLAZE IBARRA\r\n', 'XIOMARA AGUIRRE\r\n', 'ADDYSON BENJAMIN\r\n', 'PAYTON WEBER\r\n', 'DONALD SALAZAR\r\n', 'SKYLER JEFFERSON\r\n', 'ELIANNA NGUYEN\r\n', 'AZARIA FOSTER\r\n', 'PAITYN CANTU\r\n', 'IRENE HOLDER\r\n', 'LANDYN LUTZ\r\n', 'DEEGAN ARNOLD\r\n', 'MAGDALENA MOYER\r\n', 'KELSIE PARRISH\r\n', 'ARI SNYDER\r\n', 'MARKUS CERVANTES\r\n', 'BRILEY HESS\r\n', 'SONIA SELLERS\r\n', 'CLAIRE WALLACE\r\n', 'ELLIS DAVIDSON\r\n', 'KELVIN RAYMOND\r\n', 'ROY RICHMOND\r\n', 'ALLYSON LEACH\r\n', 'SALVATORE JAMES\r\n', 'TOMMY TORRES\r\n', 'MADILYN BATES\r\n', 'ABRIL KIRK\r\n', 'ITZEL ROGERS\r\n', 'TERESA TERRY\r\n', 'CALEB HESS\r\n', 'BRIANNA PAYNE\r\n', 'ZOE HALEY\r\n', 'SHYANNE CHASE\r\n', 'KAI NAVARRO\r\n', 'MARCO MERCER\r\n', 'ERICK SANTOS\r\n', 'SHAYLEE MUNOZ\r\n', 'MAXIMO BRADFORD\r\n', 'GEMMA SALAS\r\n', 'JOSH VALENTINE\r\n', 'LEVI OWENS\r\n', 'KIERAN VILLARREAL\r\n', 'ASHER FLORES\r\n', 'MADILYN WATERS\r\n', 'KELLEN CABRERA\r\n', 'LUCY FERNANDEZ\r\n', 'BROGAN HAAS\r\n', 'EZEKIEL CONRAD\r\n', 'WHITNEY ALEXANDER\r\n', 'JORGE GRIFFIN\r\n', 'ARMANI PRICE\r\n', 'DAVID MILLS\r\n', 'MARGARET ANDREWS\r\n', 'VERONICA DOYLE\r\n', 'RAINA FERGUSON\r\n', 'SHERLYN BRENNAN\r\n', 'KALE CRAWFORD\r\n', 'STEVE SCHULTZ\r\n', 'TRISTEN JORDAN\r\n', 'ALISHA MELTON\r\n', 'WILLIAM IRWIN\r\n', 'BRAELYN HINTON\r\n', 'SEAN PETTY\r\n', 'VERONICA DAVILA\r\n', 'COLBY SANTOS\r\n', 'JEAN MEADOWS\r\n', 'JOLIE BENSON\r\n', 'EMELIA BENNETT\r\n', 'ANNALISE DELGADO\r\n', 'REECE MALONE\r\n', 'MARTIN GLOVER\r\n', 'ASHLEY DANIELS\r\n', 'JORDYN CARR\r\n', 'AINSLEY COPELAND\r\n', 'CHARLIE MURPHY\r\n', 'LEANDRO HESS\r\n', 'JAGGER SCHMITT\r\n', 'JAYLEN MORSE\r\n', 'MADELEINE BRUCE\r\n', 'NATHAN SMITH\r\n', 'MATTEO KOCH\r\n', 'RUSSELL LOPEZ\r\n', 'TYLER RAYMOND\r\n', 'JADA RAYMOND\r\n', 'SEAMUS ADAMS\r\n', 'KIERSTEN BALDWIN\r\n', 'ISLA KANE\r\n', 'ZACHERY HANNA\r\n', 'ADELINE BURNETT\r\n', 'MOHAMED HOOVER\r\n', 'JASLYN TYLER\r\n', 'GEORGIA MAYER\r\n', 'JENNY ONEILL\r\n', 'IRIS MULLEN\r\n', 'KASON FRANKLIN\r\n', 'MAGGIE STEELE\r\n', 'LAURYN KLEIN\r\n', 'DESTINEE BERRY\r\n', 'DAMIAN SCHAEFER\r\n', 'THALIA BOONE\r\n', 'RANDALL WOODWARD\r\n', 'MATIAS LEONARD\r\n', 'JULIUS MALDONADO\r\n', 'FRANKLIN LINDSEY\r\n', 'AMIRA WU\r\n', 'RICKY HURLEY\r\n', 'HAMZA EATON\r\n', 'CASH ZUNIGA\r\n', 'JEREMY ONEAL\r\n', 'BLAKE MARTINEZ\r\n', 'ARACELI AVILA\r\n', 'ABBY WU\r\n']
+J.CHAN
+('added', 'J.CHAN')
+R.HEST
+('added', 'R.HEST')
+C.MOON
+('added', 'C.MOON')
+M.GIBS
+('added', 'M.GIBS')
+E.HARR
+('added', 'E.HARR')
+P.GREE
+('added', 'P.GREE')
+H.HAWK
+('added', 'H.HAWK')
+M.MCCO
+('added', 'M.MCCO')
+J.GONZ
+('added', 'J.GONZ')
+D.BLAC
+('added', 'D.BLAC')
+P.SHEP
+('added', 'P.SHEP')
+S.SHIE
+('added', 'S.SHIE')
+H.WELC
+('added', 'H.WELC')
+K.REID
+('added', 'K.REID')
+D.MUEL
+('added', 'D.MUEL')
+N.ROSS
+('added', 'N.ROSS')
+P.SCHR
+('added', 'P.SCHR')
+C.GUER
+('added', 'C.GUER')
+T.MADD
+('added', 'T.MADD')
+K.LONG
+('added', 'K.LONG')
+C.NUNE
+('added', 'C.NUNE')
+M.BULL
+('added', 'M.BULL')
+L.PAGE
+('added', 'L.PAGE')
+M.HALE
+('added', 'M.HALE')
+A.LEST
+('added', 'A.LEST')
+C.KEMP
+('added', 'C.KEMP')
+L.EDWA
+('added', 'L.EDWA')
+D.VELE
+('added', 'D.VELE')
+L.GRIM
+('added', 'L.GRIM')
+J.HORN
+('added', 'J.HORN')
+W.RIVA
+('added', 'W.RIVA')
+A.NASH
+('added', 'A.NASH')
+K.MATT
+('added', 'K.MATT')
+A.MADD
+('added', 'A.MADD')
+J.PINE
+('added', 'J.PINE')
+A.SALI
+('added', 'A.SALI')
+A.DODS
+('added', 'A.DODS')
+Z.MILL
+('added', 'Z.MILL')
+H.BLEV
+('added', 'H.BLEV')
+J.MAHO
+('added', 'J.MAHO')
+Z.PATR
+('added', 'Z.PATR')
+M.PHAM
+('added', 'M.PHAM')
+B.OSBO
+('added', 'B.OSBO')
+L.BELL
+('added', 'L.BELL')
+K.MCCO
+('added', 'K.MCCO')
+J.SIMO
+('added', 'J.SIMO')
+K.DONO
+('added', 'K.DONO')
+Y.CARP
+('added', 'Y.CARP')
+J.NORR
+('added', 'J.NORR')
+N.CLAR
+('added', 'N.CLAR')
+K.MORE
+('added', 'K.MORE')
+G.ROLL
+('added', 'G.ROLL')
+J.CASE
+('added', 'J.CASE')
+E.VILL
+('added', 'E.VILL')
+M.FARR
+('added', 'M.FARR')
+J.HARD
+('added', 'J.HARD')
+T.COLO
+('added', 'T.COLO')
+R.SING
+('added', 'R.SING')
+S.WILL
+('added', 'S.WILL')
+K.LAND
+('added', 'K.LAND')
+I.HANS
+('added', 'I.HANS')
+D.NORR
+('added', 'D.NORR')
+R.FAUL
+('added', 'R.FAUL')
+A.MADD
+('added', 'A.MADD')
+O.CANT
+('added', 'O.CANT')
+T.HOOV
+('added', 'T.HOOV')
+T.HUGH
+('added', 'T.HUGH')
+T.HARR
+('added', 'T.HARR')
+C.SILV
+('added', 'C.SILV')
+J.LYON
+('added', 'J.LYON')
+J.BEAR
+('added', 'J.BEAR')
+C.NICH
+('added', 'C.NICH')
+A.MAYS
+('added', 'A.MAYS')
+C.ANDR
+('added', 'C.ANDR')
+H.LITT
+('added', 'H.LITT')
+J.MCLA
+('added', 'J.MCLA')
+R.DUNC
+('added', 'R.DUNC')
+J.MERR
+('added', 'J.MERR')
+S.LUTZ
+('added', 'S.LUTZ')
+T.DUNN
+('added', 'T.DUNN')
+D.LAM
+('added', 'D.LAM')
+C.STAF
+('added', 'C.STAF')
+D.DODS
+('added', 'D.DODS')
+K.WILL
+('added', 'K.WILL')
+N.EWIN
+('added', 'N.EWIN')
+J.RAMO
+('added', 'J.RAMO')
+J.SPEA
+('added', 'J.SPEA')
+S.MALO
+('added', 'S.MALO')
+L.SWEE
+('added', 'L.SWEE')
+X.LEE
+('added', 'X.LEE')
+C.NOLA
+('added', 'C.NOLA')
+R.RIGG
+('added', 'R.RIGG')
+F.PENA
+('added', 'F.PENA')
+T.ROWL
+('added', 'T.ROWL')
+S.OCHO
+('added', 'S.OCHO')
+E.SOTO
+('added', 'E.SOTO')
+V.SELL
+('added', 'V.SELL')
+B.WHIT
+('added', 'B.WHIT')
+J.BOWE
+('added', 'J.BOWE')
+G.SCOT
+('added', 'G.SCOT')
+M.LEON
+('added', 'M.LEON')
+G.LACE
+('added', 'G.LACE')
+I.OSMA
+('added', 'I.OSMA')
+M.DONG
+('added', 'M.DONG')
+M.MIN
+('added', 'M.MIN')
+V.ACHU
+('added', 'V.ACHU')
+A.AL-F
+('added', 'A.AL-F')
+T.SHIN
+('added', 'T.SHIN')
+B.IBAR
+('added', 'B.IBAR')
+X.AGUI
+('added', 'X.AGUI')
+A.BENJ
+('added', 'A.BENJ')
+P.WEBE
+('added', 'P.WEBE')
+D.SALA
+('added', 'D.SALA')
+S.JEFF
+('added', 'S.JEFF')
+E.NGUY
+('added', 'E.NGUY')
+A.FOST
+('added', 'A.FOST')
+P.CANT
+('added', 'P.CANT')
+I.HOLD
+('added', 'I.HOLD')
+L.LUTZ
+('added', 'L.LUTZ')
+D.ARNO
+('added', 'D.ARNO')
+M.MOYE
+('added', 'M.MOYE')
+K.PARR
+('added', 'K.PARR')
+A.SNYD
+('added', 'A.SNYD')
+M.CERV
+('added', 'M.CERV')
+B.HESS
+('added', 'B.HESS')
+S.SELL
+('added', 'S.SELL')
+C.WALL
+('added', 'C.WALL')
+E.DAVI
+('added', 'E.DAVI')
+K.RAYM
+('added', 'K.RAYM')
+R.RICH
+('added', 'R.RICH')
+A.LEAC
+('added', 'A.LEAC')
+S.JAME
+('added', 'S.JAME')
+T.TORR
+('added', 'T.TORR')
+M.BATE
+('added', 'M.BATE')
+A.KIRK
+('added', 'A.KIRK')
+I.ROGE
+('added', 'I.ROGE')
+T.TERR
+('added', 'T.TERR')
+C.HESS
+('added', 'C.HESS')
+B.PAYN
+('added', 'B.PAYN')
+Z.HALE
+('added', 'Z.HALE')
+S.CHAS
+('added', 'S.CHAS')
+K.NAVA
+('added', 'K.NAVA')
+M.MERC
+('added', 'M.MERC')
+E.SANT
+('added', 'E.SANT')
+S.MUNO
+('added', 'S.MUNO')
+M.BRAD
+('added', 'M.BRAD')
+G.SALA
+('added', 'G.SALA')
+J.VALE
+('added', 'J.VALE')
+L.OWEN
+('added', 'L.OWEN')
+K.VILL
+('added', 'K.VILL')
+A.FLOR
+('added', 'A.FLOR')
+M.WATE
+('added', 'M.WATE')
+K.CABR
+('added', 'K.CABR')
+L.FERN
+('added', 'L.FERN')
+B.HAAS
+('added', 'B.HAAS')
+E.CONR
+('added', 'E.CONR')
+W.ALEX
+('added', 'W.ALEX')
+J.GRIF
+('added', 'J.GRIF')
+A.PRIC
+('added', 'A.PRIC')
+D.MILL
+('added', 'D.MILL')
+M.ANDR
+('added', 'M.ANDR')
+V.DOYL
+('added', 'V.DOYL')
+R.FERG
+('added', 'R.FERG')
+S.BREN
+('added', 'S.BREN')
+K.CRAW
+('added', 'K.CRAW')
+S.SCHU
+('added', 'S.SCHU')
+T.JORD
+('added', 'T.JORD')
+A.MELT
+('added', 'A.MELT')
+W.IRWI
+('added', 'W.IRWI')
+B.HINT
+('added', 'B.HINT')
+S.PETT
+('added', 'S.PETT')
+V.DAVI
+('added', 'V.DAVI')
+C.SANT
+('added', 'C.SANT')
+J.MEAD
+('added', 'J.MEAD')
+J.BENS
+('added', 'J.BENS')
+E.BENN
+('added', 'E.BENN')
+A.DELG
+('added', 'A.DELG')
+R.MALO
+('added', 'R.MALO')
+M.GLOV
+('added', 'M.GLOV')
+A.DANI
+('added', 'A.DANI')
+J.CARR
+('added', 'J.CARR')
+A.COPE
+('added', 'A.COPE')
+C.MURP
+('added', 'C.MURP')
+L.HESS
+('added', 'L.HESS')
+J.SCHM
+('added', 'J.SCHM')
+J.MORS
+('added', 'J.MORS')
+M.BRUC
+('added', 'M.BRUC')
+N.SMIT
+('added', 'N.SMIT')
+M.KOCH
+('added', 'M.KOCH')
+R.LOPE
+('added', 'R.LOPE')
+T.RAYM
+('added', 'T.RAYM')
+J.RAYM
+('added', 'J.RAYM')
+S.ADAM
+('added', 'S.ADAM')
+K.BALD
+('added', 'K.BALD')
+I.KANE
+('added', 'I.KANE')
+Z.HANN
+('added', 'Z.HANN')
+A.BURN
+('added', 'A.BURN')
+M.HOOV
+('added', 'M.HOOV')
+J.TYLE
+('added', 'J.TYLE')
+G.MAYE
+('added', 'G.MAYE')
+J.ONEI
+('added', 'J.ONEI')
+I.MULL
+('added', 'I.MULL')
+K.FRAN
+('added', 'K.FRAN')
+M.STEE
+('added', 'M.STEE')
+L.KLEI
+('added', 'L.KLEI')
+D.BERR
+('added', 'D.BERR')
+D.SCHA
+('added', 'D.SCHA')
+T.BOON
+('added', 'T.BOON')
+R.WOORemoving user `J.CHAN' ...
+Warning: group `J.CHAN' has no more members.
+Done.
+Removing user `R.HEST' ...
+Warning: group `R.HEST' has no more members.
+Done.
+Removing user `C.MOON' ...
+Warning: group `C.MOON' has no more members.
+Done.
+Removing user `M.GIBS' ...
+Warning: group `M.GIBS' has no more members.
+Done.
+Removing user `E.HARR' ...
+Warning: group `E.HARR' has no more members.
+Done.
+Removing user `P.GREE' ...
+Warning: group `P.GREE' has no more members.
+Done.
+Removing user `H.HAWK' ...
+Warning: group `H.HAWK' has no more members.
+Done.
+Removing user `M.MCCO' ...
+Warning: group `M.MCCO' has no more members.
+Done.
+Removing user `J.GONZ' ...
+Warning: group `J.GONZ' has no more members.
+Done.
+Removing user `D.BLAC' ...
+Warning: group `D.BLAC' has no more members.
+Done.
+Removing user `P.SHEP' ...
+Warning: group `P.SHEP' has no more members.
+Done.
+Removing user `S.SHIE' ...
+Warning: group `S.SHIE' has no more members.
+Done.
+Removing user `H.WELC' ...
+Warning: group `H.WELC' has no more members.
+Done.
+Removing user `K.REID' ...
+Warning: group `K.REID' has no more members.
+Done.
+Removing user `D.MUEL' ...
+Warning: group `D.MUEL' has no more members.
+Done.
+Removing user `N.ROSS' ...
+Warning: group `N.ROSS' has no more members.
+Done.
+Removing user `P.SCHR' ...
+Warning: group `P.SCHR' has no more members.
+Done.
+Removing user `C.GUER' ...
+Warning: group `C.GUER' has no more members.
+Done.
+Removing user `T.MADD' ...
+Warning: group `T.MADD' has no more members.
+Done.
+Removing user `K.LONG' ...
+Warning: group `K.LONG' has no more members.
+Done.
+Removing user `C.NUNE' ...
+Warning: group `C.NUNE' has no more members.
+Done.
+Removing user `M.BULL' ...
+Warning: group `M.BULL' has no more members.
+Done.
+Removing user `L.PAGE' ...
+Warning: group `L.PAGE' has no more members.
+Done.
+Removing user `M.HALE' ...
+Warning: group `M.HALE' has no more members.
+Done.
+Removing user `A.LEST' ...
+Warning: group `A.LEST' has no more members.
+Done.
+Removing user `C.KEMP' ...
+Warning: group `C.KEMP' has no more members.
+Done.
+Removing user `L.EDWA' ...
+Warning: group `L.EDWA' has no more members.
+Done.
+Removing user `D.VELE' ...
+Warning: group `D.VELE' has no more members.
+Done.
+Removing user `L.GRIM' ...
+Warning: group `L.GRIM' has no more members.
+Done.
+Removing user `J.HORN' ...
+Warning: group `J.HORN' has no more members.
+Done.
+Removing user `W.RIVA' ...
+Warning: group `W.RIVA' has no more members.
+Done.
+Removing user `A.NASH' ...
+Warning: group `A.NASH' has no more members.
+Done.
+Removing user `K.MATT' ...
+Warning: group `K.MATT' has no more members.
+Done.
+Removing user `A.MADD' ...
+Warning: group `A.MADD' has no more members.
+Done.
+Removing user `J.PINE' ...
+Warning: group `J.PINE' has no more members.
+Done.
+Removing user `A.SALI' ...
+Warning: group `A.SALI' has no more members.
+Done.
+Removing user `A.DODS' ...
+Warning: group `A.DODS' has no more members.
+Done.
+Removing user `Z.MILL' ...
+Warning: group `Z.MILL' has no more members.
+Done.
+Removing user `H.BLEV' ...
+Warning: group `H.BLEV' has no more members.
+Done.
+Removing user `J.MAHO' ...
+Warning: group `J.MAHO' has no more members.
+Done.
+Removing user `Z.PATR' ...
+Warning: group `Z.PATR' has no more members.
+Done.
+Removing user `M.PHAM' ...
+Warning: group `M.PHAM' has no more members.
+Done.
+Removing user `B.OSBO' ...
+Warning: group `B.OSBO' has no more members.
+Done.
+Removing user `L.BELL' ...
+Warning: group `L.BELL' has no more members.
+Done.
+Removing user `K.MCCO' ...
+Warning: group `K.MCCO' has no more members.
+Done.
+Removing user `J.SIMO' ...
+Warning: group `J.SIMO' has no more members.
+Done.
+Removing user `K.DONO' ...
+Warning: group `K.DONO' has no more members.
+Done.
+Removing user `Y.CARP' ...
+Warning: group `Y.CARP' has no more members.
+Done.
+Removing user `J.NORR' ...
+Warning: group `J.NORR' has no more members.
+Done.
+Removing user `N.CLAR' ...
+Warning: group `N.CLAR' has no more members.
+Done.
+Removing user `K.MORE' ...
+Warning: group `K.MORE' has no more members.
+Done.
+Removing user `G.ROLL' ...
+Warning: group `G.ROLL' has no more members.
+Done.
+Removing user `J.CASE' ...
+Warning: group `J.CASE' has no more members.
+Done.
+Removing user `E.VILL' ...
+Warning: group `E.VILL' has no more members.
+Done.
+Removing user `M.FARR' ...
+Warning: group `M.FARR' has no more members.
+Done.
+Removing user `J.HARD' ...
+Warning: group `J.HARD' has no more members.
+Done.
+Removing user `T.COLO' ...
+Warning: group `T.COLO' has no more members.
+Done.
+Removing user `R.SING' ...
+Warning: group `R.SING' has no more members.
+Done.
+Removing user `S.WILL' ...
+Warning: group `S.WILL' has no more members.
+Done.
+Removing user `K.LAND' ...
+Warning: group `K.LAND' has no more members.
+Done.
+Removing user `I.HANS' ...
+Warning: group `I.HANS' has no more members.
+Done.
+Removing user `D.NORR' ...
+Warning: group `D.NORR' has no more members.
+Done.
+Removing user `R.FAUL' ...
+Warning: group `R.FAUL' has no more members.
+Done.
+Removing user `O.CANT' ...
+Warning: group `O.CANT' has no more members.
+Done.
+Removing user `T.HOOV' ...
+Warning: group `T.HOOV' has no more members.
+Done.
+Removing user `T.HUGH' ...
+Warning: group `T.HUGH' has no more members.
+Done.
+Removing user `T.HARR' ...
+Warning: group `T.HARR' has no more members.
+Done.
+Removing user `C.SILV' ...
+Warning: group `C.SILV' has no more members.
+Done.
+Removing user `J.LYON' ...
+Warning: group `J.LYON' has no more members.
+Done.
+Removing user `J.BEAR' ...
+Warning: group `J.BEAR' has no more members.
+Done.
+Removing user `C.NICH' ...
+Warning: group `C.NICH' has no more members.
+Done.
+Removing user `A.MAYS' ...
+Warning: group `A.MAYS' has no more members.
+Done.
+Removing user `C.ANDR' ...
+Warning: group `C.ANDR' has no more members.
+Done.
+Removing user `H.LITT' ...
+Warning: group `H.LITT' has no more members.
+Done.
+Removing user `J.MCLA' ...
+Warning: group `J.MCLA' has no more members.
+Done.
+Removing user `R.DUNC' ...
+Warning: group `R.DUNC' has no more members.
+Done.
+Removing user `J.MERR' ...
+Warning: group `J.MERR' has no more members.
+Done.
+Removing user `S.LUTZ' ...
+Warning: group `S.LUTZ' has no more members.
+Done.
+Removing user `T.DUNN' ...
+Warning: group `T.DUNN' has no more members.
+Done.
+Removing user `D.LAM' ...
+Warning: group `D.LAM' has no more members.
+Done.
+Removing user `C.STAF' ...
+Warning: group `C.STAF' has no more members.
+Done.
+Removing user `D.DODS' ...
+Warning: group `D.DODS' has no more members.
+Done.
+Removing user `K.WILL' ...
+Warning: group `K.WILL' has no more members.
+Done.
+Removing user `N.EWIN' ...
+Warning: group `N.EWIN' has no more members.
+Done.
+Removing user `J.RAMO' ...
+Warning: group `J.RAMO' has no more members.
+Done.
+Removing user `J.SPEA' ...
+Warning: group `J.SPEA' has no more members.
+Done.
+Removing user `S.MALO' ...
+Warning: group `S.MALO' has no more members.
+Done.
+Removing user `L.SWEE' ...
+Warning: group `L.SWEE' has no more members.
+Done.
+Removing user `X.LEE' ...
+Warning: group `X.LEE' has no more members.
+Done.
+Removing user `C.NOLA' ...
+Warning: group `C.NOLA' has no more members.
+Done.
+Removing user `R.RIGG' ...
+Warning: group `R.RIGG' has no more members.
+Done.
+Removing user `F.PENA' ...
+Warning: group `F.PENA' has no more members.
+Done.
+Removing user `T.ROWL' ...
+Warning: group `T.ROWL' has no more members.
+Done.
+Removing user `S.OCHO' ...
+Warning: group `S.OCHO' has no more members.
+Done.
+Removing user `E.SOTO' ...
+Warning: group `E.SOTO' has no more members.
+Done.
+Removing user `V.SELL' ...
+Warning: group `V.SELL' has no more members.
+Done.
+Removing user `B.WHIT' ...
+Warning: group `B.WHIT' has no more members.
+Done.
+Removing user `J.BOWE' ...
+Warning: group `J.BOWE' has no more members.
+Done.
+Removing user `G.SCOT' ...
+Warning: group `G.SCOT' has no more members.
+Done.
+Removing user `M.LEON' ...
+Warning: group `M.LEON' has no more members.
+Done.
+Removing user `G.LACE' ...
+Warning: group `G.LACE' has no more members.
+Done.
+Removing user `I.OSMA' ...
+Warning: group `I.OSMA' has no more members.
+Done.
+Removing user `M.DONG' ...
+Warning: group `M.DONG' has no more members.
+Done.
+Removing user `M.MIN' ...
+Warning: group `M.MIN' has no more members.
+Done.
+Removing user `V.ACHU' ...
+Warning: group `V.ACHU' has no more members.
+Done.
+Removing user `A.AL-F' ...
+Warning: group `A.AL-F' has no more members.
+Done.
+Removing user `T.SHIN' ...
+Warning: group `T.SHIN' has no more members.
+Done.
+Removing user `B.IBAR' ...
+Warning: group `B.IBAR' has no more members.
+Done.
+Removing user `X.AGUI' ...
+Warning: group `X.AGUI' has no more members.
+Done.
+Removing user `A.BENJ' ...
+Warning: group `A.BENJ' has no more members.
+Done.
+Removing user `P.WEBE' ...
+Warning: group `P.WEBE' has no more members.
+Done.
+Removing user `D.SALA' ...
+Warning: group `D.SALA' has no more members.
+Done.
+Removing user `S.JEFF' ...
+Warning: group `S.JEFF' has no more members.
+Done.
+Removing user `E.NGUY' ...
+Warning: group `E.NGUY' has no more members.
+Done.
+Removing user `A.FOST' ...
+Warning: group `A.FOST' has no more members.
+Done.
+Removing user `P.CANT' ...
+Warning: group `P.CANT' has no more members.
+Done.
+Removing user `I.HOLD' ...
+Warning: group `I.HOLD' has no more members.
+Done.
+Removing user `L.LUTZ' ...
+Warning: group `L.LUTZ' has no more members.
+Done.
+Removing user `D.ARNO' ...
+Warning: group `D.ARNO' has no more members.
+Done.
+Removing user `M.MOYE' ...
+Warning: group `M.MOYE' has no more members.
+Done.
+Removing user `K.PARR' ...
+Warning: group `K.PARR' has no more members.
+Done.
+Removing user `A.SNYD' ...
+Warning: group `A.SNYD' has no more members.
+Done.
+Removing user `M.CERV' ...
+Warning: group `M.CERV' has no more members.
+Done.
+Removing user `B.HESS' ...
+Warning: group `B.HESS' has no more members.
+Done.
+Removing user `S.SELL' ...
+Warning: group `S.SELL' has no more members.
+Done.
+Removing user `C.WALL' ...
+Warning: group `C.WALL' has no more members.
+Done.
+Removing user `E.DAVI' ...
+Warning: group `E.DAVI' has no more members.
+Done.
+Removing user `K.RAYM' ...
+Warning: group `K.RAYM' has no more members.
+Done.
+Removing user `R.RICH' ...
+Warning: group `R.RICH' has no more members.
+Done.
+Removing user `A.LEAC' ...
+Warning: group `A.LEAC' has no more members.
+Done.
+Removing user `S.JAME' ...
+Warning: group `S.JAME' has no more members.
+Done.
+Removing user `T.TORR' ...
+Warning: group `T.TORR' has no more members.
+Done.
+Removing user `M.BATE' ...
+Warning: group `M.BATE' has no more members.
+Done.
+Removing user `A.KIRK' ...
+Warning: group `A.KIRK' has no more members.
+Done.
+Removing user `I.ROGE' ...
+Warning: group `I.ROGE' has no more members.
+Done.
+Removing user `T.TERR' ...
+Warning: group `T.TERR' has no more members.
+Done.
+Removing user `C.HESS' ...
+Warning: group `C.HESS' has no more members.
+Done.
+Removing user `B.PAYN' ...
+Warning: group `B.PAYN' has no more members.
+Done.
+Removing user `Z.HALE' ...
+Warning: group `Z.HALE' has no more members.
+Done.
+Removing user `S.CHAS' ...
+Warning: group `S.CHAS' has no more members.
+Done.
+Removing user `K.NAVA' ...
+Warning: group `K.NAVA' has no more members.
+Done.
+Removing user `M.MERC' ...
+Warning: group `M.MERC' has no more members.
+Done.
+Removing user `E.SANT' ...
+Warning: group `E.SANT' has no more members.
+Done.
+Removing user `S.MUNO' ...
+Warning: group `S.MUNO' has no more members.
+Done.
+Removing user `M.BRAD' ...
+Warning: group `M.BRAD' has no more members.
+Done.
+Removing user `G.SALA' ...
+Warning: group `G.SALA' has no more members.
+Done.
+Removing user `J.VALE' ...
+Warning: group `J.VALE' has no more members.
+Done.
+Removing user `L.OWEN' ...
+Warning: group `L.OWEN' has no more members.
+Done.
+Removing user `K.VILL' ...
+Warning: group `K.VILL' has no more members.
+Done.
+Removing user `A.FLOR' ...
+Warning: group `A.FLOR' has no more members.
+Done.
+Removing user `M.WATE' ...
+Warning: group `M.WATE' has no more members.
+Done.
+Removing user `K.CABR' ...
+Warning: group `K.CABR' has no more members.
+Done.
+Removing user `L.FERN' ...
+Warning: group `L.FERN' has no more members.
+Done.
+Removing user `B.HAAS' ...
+Warning: group `B.HAAS' has no more members.
+Done.
+Removing user `E.CONR' ...
+Warning: group `E.CONR' has no more members.
+Done.
+Removing user `W.ALEX' ...
+Warning: group `W.ALEX' has no more members.
+Done.
+Removing user `J.GRIF' ...
+Warning: group `J.GRIF' has no more members.
+Done.
+Removing user `A.PRIC' ...
+Warning: group `A.PRIC' has no more members.
+Done.
+Removing user `D.MILL' ...
+Warning: group `D.MILL' has no more members.
+Done.
+Removing user `M.ANDR' ...
+Warning: group `M.ANDR' has no more members.
+Done.
+Removing user `V.DOYL' ...
+Warning: group `V.DOYL' has no more members.
+Done.
+Removing user `R.FERG' ...
+Warning: group `R.FERG' has no more members.
+Done.
+Removing user `S.BREN' ...
+Warning: group `S.BREN' has no more members.
+Done.
+Removing user `K.CRAW' ...
+Warning: group `K.CRAW' has no more members.
+Done.
+Removing user `S.SCHU' ...
+Warning: group `S.SCHU' has no more members.
+Done.
+Removing user `T.JORD' ...
+Warning: group `T.JORD' has no more members.
+Done.
+Removing user `A.MELT' ...
+Warning: group `A.MELT' has no more members.
+Done.
+Removing user `W.IRWI' ...
+Warning: group `W.IRWI' has no more members.
+Done.
+Removing user `B.HINT' ...
+Warning: group `B.HINT' has no more members.
+Done.
+Removing user `S.PETT' ...
+Warning: group `S.PETT' has no more members.
+Done.
+Removing user `V.DAVI' ...
+Warning: group `V.DAVI' has no more members.
+Done.
+Removing user `C.SANT' ...
+Warning: group `C.SANT' has no more members.
+Done.
+Removing user `J.MEAD' ...
+Warning: group `J.MEAD' has no more members.
+Done.
+Removing user `J.BENS' ...
+Warning: group `J.BENS' has no more members.
+Done.
+Removing user `E.BENN' ...
+Warning: group `E.BENN' has no more members.
+Done.
+Removing user `A.DELG' ...
+Warning: group `A.DELG' has no more members.
+Done.
+Removing user `R.MALO' ...
+Warning: group `R.MALO' has no more members.
+Done.
+Removing user `M.GLOV' ...
+Warning: group `M.GLOV' has no more members.
+Done.
+Removing user `A.DANI' ...
+Warning: group `A.DANI' has no more members.
+Done.
+Removing user `J.CARR' ...
+Warning: group `J.CARR' has no more members.
+Done.
+Removing user `A.COPE' ...
+Warning: group `A.COPE' has no more members.
+Done.
+Removing user `C.MURP' ...
+Warning: group `C.MURP' has no more members.
+Done.
+Removing user `L.HESS' ...
+Warning: group `L.HESS' has no more members.
+Done.
+Removing user `J.SCHM' ...
+Warning: group `J.SCHM' has no more members.
+Done.
+Removing user `J.MORS' ...
+Warning: group `J.MORS' has no more members.
+Done.
+Removing user `M.BRUC' ...
+Warning: group `M.BRUC' has no more members.
+Done.
+Removing user `N.SMIT' ...
+Warning: group `N.SMIT' has no more members.
+Done.
+Removing user `M.KOCH' ...
+Warning: group `M.KOCH' has no more members.
+Done.
+Removing user `R.LOPE' ...
+Warning: group `R.LOPE' has no more members.
+Done.
+Removing user `T.RAYM' ...
+Warning: group `T.RAYM' has no more members.
+Done.
+Removing user `J.RAYM' ...
+Warning: group `J.RAYM' has no more members.
+Done.
+Removing user `S.ADAM' ...
+Warning: group `S.ADAM' has no more members.
+Done.
+Removing user `K.BALD' ...
+Warning: group `K.BALD' has no more members.
+Done.
+Removing user `I.KANE' ...
+Warning: group `I.KANE' has no more members.
+Done.
+Removing user `Z.HANN' ...
+Warning: group `Z.HANN' has no more members.
+Done.
+Removing user `A.BURN' ...
+Warning: group `A.BURN' has no more members.
+Done.
+Removing user `M.HOOV' ...
+Warning: group `M.HOOV' has no more members.
+Done.
+Removing user `J.TYLE' ...
+Warning: group `J.TYLE' has no more members.
+Done.
+Removing user `G.MAYE' ...
+Warning: group `G.MAYE' has no more members.
+Done.
+Removing user `J.ONEI' ...
+Warning: group `J.ONEI' has no more members.
+Done.
+Removing user `I.MULL' ...
+Warning: group `I.MULL' has no more members.
+Done.
+Removing user `K.FRAN' ...
+Warning: group `K.FRAN' has no more members.
+Done.
+Removing user `M.STEE' ...
+Warning: group `M.STEE' has no more members.
+Done.
+Removing user `L.KLEI' ...
+Warning: group `L.KLEI' has no more members.
+Done.
+Removing user `D.BERR' ...
+Warning: group `D.BERR' has no more members.
+Done.
+Removing user `D.SCHA' ...
+Warning: group `D.SCHA' has no more members.
+Done.
+Removing user `T.BOON' ...
+Warning: group `T.BOON' has no more members.
+Done.
+Removing user `R.WOOD' ...
+Warning: group `R.WOOD' has no more members.
+Done.
+Removing user `J.MALD' ...
+Warning: group `J.MALD' has no more members.
+Done.
+Removing user `F.LIND' ...
+Warning: group `F.LIND' has no more members.
+Done.
+Removing user `A.WU' ...
+Warning: group `A.WU' has no more members.
+Done.
+Removing user `R.HURL' ...
+Warning: group `R.HURL' has no more members.
+Done.
+Removing user `H.EATO' ...
+Warning: group `H.EATO' has no more members.
+Done.
+Removing user `C.ZUNI' ...
+Warning: group `C.ZUNI' has no more members.
+Done.
+Removing user `J.ONEA' ...
+Warning: group `J.ONEA' has no more members.
+Done.
+Removing user `B.MART' ...
+Warning: group `B.MART' has no more members.
+Done.
+Removing user `A.AVIL' ...
+Warning: group `A.AVIL' has no more members.
+Done.
+D
+('added', 'R.WOOD')
+M.LEON
+('added', 'M.LEON')
+J.MALD
+('added', 'J.MALD')
+F.LIND
+('added', 'F.LIND')
+A.WU
+('added', 'A.WU')
+R.HURL
+('added', 'R.HURL')
+H.EATO
+('added', 'H.EATO')
+C.ZUNI
+('added', 'C.ZUNI')
+J.ONEA
+('added', 'J.ONEA')
+B.MART
+('added', 'B.MART')
+A.AVIL
+('added', 'A.AVIL')
+A.WU
+('added', 'A.WU')
+['GUILLERMO DE LACERDA\r\n', 'ISA BIN OSMAN\r\n', 'MAO ZE DONG\r\n', 'MAO ZE MIN\r\n', 'VELIKKAKATHU SANKARAN ACHUTHANANDAN\r\n', 'ABU KARIM MUHAMMAD AL-JAMIL IBN NIDAL IBN ABDULAZIZ AL-FILISTINI\r\n', 'THAKSIN SHINAWATRA\r\n', 'BLAZE IBARRA\r\n', 'XIOMARA AGUIRRE\r\n', 'ADDYSON BENJAMIN\r\n', 'PAYTON WEBER\r\n', 'DONALD SALAZAR\r\n', 'SKYLER JEFFERSON\r\n', 'ELIANNA NGUYEN\r\n', 'AZARIA FOSTER\r\n', 'PAITYN CANTU\r\n', 'IRENE HOLDER\r\n', 'LANDYN LUTZ\r\n', 'DEEGAN ARNOLD\r\n', 'MAGDALENA MOYER\r\n', 'KELSIE PARRISH\r\n', 'ARI SNYDER\r\n', 'MARKUS CERVANTES\r\n', 'BRILEY HESS\r\n', 'SONIA SELLERS\r\n', 'CLAIRE WALLACE\r\n', 'ELLIS DAVIDSON\r\n', 'KELVIN RAYMOND\r\n', 'ROY RICHMOND\r\n', 'ALLYSON LEACH\r\n', 'SALVATORE JAMES\r\n', 'TOMMY TORRES\r\n', 'MADILYN BATES\r\n', 'ABRIL KIRK\r\n', 'ITZEL ROGERS\r\n', 'TERESA TERRY\r\n', 'CALEB HESS\r\n', 'BRIANNA PAYNE\r\n', 'ZOE HALEY\r\n', 'SHYANNE CHASE\r\n', 'KAI NAVARRO\r\n', 'MARCO MERCER\r\n', 'ERICK SANTOS\r\n', 'SHAYLEE MUNOZ\r\n', 'MAXIMO BRADFORD\r\n', 'GEMMA SALAS\r\n', 'JOSH VALENTINE\r\n', 'LEVI OWENS\r\n', 'KIERAN VILLARREAL\r\n', 'ASHER FLORES\r\n', 'MADILYN WATERS\r\n', 'KELLEN CABRERA\r\n', 'LUCY FERNANDEZ\r\n', 'BROGAN HAAS\r\n', 'EZEKIEL CONRAD\r\n', 'WHITNEY ALEXANDER\r\n', 'JORGE GRIFFIN\r\n', 'ARMANI PRICE\r\n', 'DAVID MILLS\r\n', 'MARGARET ANDREWS\r\n', 'VERONICA DOYLE\r\n', 'RAINA FERGUSON\r\n', 'SHERLYN BRENNAN\r\n', 'KALE CRAWFORD\r\n', 'STEVE SCHULTZ\r\n', 'TRISTEN JORDAN\r\n', 'ALISHA MELTON\r\n', 'WILLIAM IRWIN\r\n', 'BRAELYN HINTON\r\n', 'SEAN PETTY\r\n', 'VERONICA DAVILA\r\n', 'COLBY SANTOS\r\n', 'JEAN MEADOWS\r\n', 'JOLIE BENSON\r\n', 'EMELIA BENNETT\r\n', 'ANNALISE DELGADO\r\n', 'REECE MALONE\r\n', 'MARTIN GLOVER\r\n', 'ASHLEY DANIELS\r\n', 'JORDYN CARR\r\n', 'AINSLEY COPELAND\r\n', 'CHARLIE MURPHY\r\n', 'LEANDRO HESS\r\n', 'JAGGER SCHMITT\r\n', 'JAYLEN MORSE\r\n', 'MADELEINE BRUCE\r\n', 'NATHAN SMITH\r\n', 'MATTEO KOCH\r\n', 'RUSSELL LOPEZ\r\n', 'TYLER RAYMOND\r\n', 'JADA RAYMOND\r\n', 'SEAMUS ADAMS\r\n', 'KIERSTEN BALDWIN\r\n', 'ISLA KANE\r\n', 'ZACHERY HANNA\r\n', 'ADELINE BURNETT\r\n', 'MOHAMED HOOVER\r\n', 'JASLYN TYLER\r\n', 'GEORGIA MAYER\r\n', 'JENNY ONEILL\r\n', 'IRIS MULLEN\r\n', 'KASON FRANKLIN\r\n', 'MAGGIE STEELE\r\n', 'LAURYN KLEIN\r\n', 'DESTINEE BERRY\r\n', 'DAMIAN SCHAEFER\r\n', 'THALIA BOONE\r\n', 'RANDALL WOODWARD\r\n', 'MATIAS LEONARD\r\n', 'JULIUS MALDONADO\r\n', 'FRANKLIN LINDSEY\r\n', 'AMIRA WU\r\n', 'RICKY HURLEY\r\n', 'HAMZA EATON\r\n', 'CASH ZUNIGA\r\n', 'JEREMY ONEAL\r\n', 'BLAKE MARTINEZ\r\n', 'ARACELI AVILA\r\n', 'ABBY WU\r\n']
+['GUILLERMO DE LACERDA\r\n', 'ISA BIN OSMAN\r\n', 'MAO ZE DONG\r\n', 'MAO ZE MIN\r\n', 'VELIKKAKATHU SANKARAN ACHUTHANANDAN\r\n', 'ABU KARIM MUHAMMAD AL-JAMIL IBN NIDAL IBN ABDULAZIZ AL-FILISTINI\r\n', 'THAKSIN SHINAWATRA\r\n', 'BLAZE IBARRA\r\n', 'XIOMARA AGUIRRE\r\n', 'ADDYSON BENJAMIN\r\n', 'PAYTON WEBER\r\n', 'DONALD SALAZAR\r\n', 'SKYLER JEFFERSON\r\n', 'ELIANNA NGUYEN\r\n', 'AZARIA FOSTER\r\n', 'PAITYN CANTU\r\n', 'IRENE HOLDER\r\n', 'LANDYN LUTZ\r\n', 'DEEGAN ARNOLD\r\n', 'MAGDALENA MOYER\r\n', 'KELSIE PARRISH\r\n', 'ARI SNYDER\r\n', 'MARKUS CERVANTES\r\n', 'BRILEY HESS\r\n', 'SONIA SELLERS\r\n', 'CLAIRE WALLACE\r\n', 'ELLIS DAVIDSON\r\n', 'KELVIN RAYMOND\r\n', 'ROY RICHMOND\r\n', 'ALLYSON LEACH\r\n', 'SALVATORE JAMES\r\n', 'TOMMY TORRES\r\n', 'MADILYN BATES\r\n', 'ABRIL KIRK\r\n', 'ITZEL ROGERS\r\n', 'TERESA TERRY\r\n', 'CALEB HESS\r\n', 'BRIANNA PAYNE\r\n', 'ZOE HALEY\r\n', 'SHYANNE CHASE\r\n', 'KAI NAVARRO\r\n', 'MARCO MERCER\r\n', 'ERICK SANTOS\r\n', 'SHAYLEE MUNOZ\r\n', 'MAXIMO BRADFORD\r\n', 'GEMMA SALAS\r\n', 'JOSH VALENTINE\r\n', 'LEVI OWENS\r\n', 'KIERAN VILLARREAL\r\n', 'ASHER FLORES\r\n', 'MADILYN WATERS\r\n', 'KELLEN CABRERA\r\n', 'LUCY FERNANDEZ\r\n', 'BROGAN HAAS\r\n', 'EZEKIEL CONRAD\r\n', 'WHITNEY ALEXANDER\r\n', 'JORGE GRIFFIN\r\n', 'ARMANI PRICE\r\n', 'DAVID MILLS\r\n', 'MARGARET ANDREWS\r\n', 'VERONICA DOYLE\r\n', 'RAINA FERGUSON\r\n', 'SHERLYN BRENNAN\r\n', 'KALE CRAWFORD\r\n', 'STEVE SCHULTZ\r\n', 'TRISTEN JORDAN\r\n', 'ALISHA MELTON\r\n', 'WILLIAM IRWIN\r\n', 'BRAELYN HINTON\r\n', 'SEAN PETTY\r\n', 'VERONICA DAVILA\r\n', 'COLBY SANTOS\r\n', 'JEAN MEADOWS\r\n', 'JOLIE BENSON\r\n', 'EMELIA BENNETT\r\n', 'ANNALISE DELGADO\r\n', 'REECE MALONE\r\n', 'MARTIN GLOVER\r\n', 'ASHLEY DANIELS\r\n', 'JORDYN CARR\r\n', 'AINSLEY COPELAND\r\n', 'CHARLIE MURPHY\r\n', 'LEANDRO HESS\r\n', 'JAGGER SCHMITT\r\n', 'JAYLEN MORSE\r\n', 'MADELEINE BRUCE\r\n', 'NATHAN SMITH\r\n', 'MATTEO KOCH\r\n', 'RUSSELL LOPEZ\r\n', 'TYLER RAYMOND\r\n', 'JADA RAYMOND\r\n', 'SEAMUS ADAMS\r\n', 'KIERSTEN BALDWIN\r\n', 'ISLA KANE\r\n', 'ZACHERY HANNA\r\n', 'ADELINE BURNETT\r\n', 'MOHAMED HOOVER\r\n', 'JASLYN TYLER\r\n', 'GEORGIA MAYER\r\n', 'JENNY ONEILL\r\n', 'IRIS MULLEN\r\n', 'KASON FRANKLIN\r\n', 'MAGGIE STEELE\r\n', 'LAURYN KLEIN\r\n', 'DESTINEE BERRY\r\n', 'DAMIAN SCHAEFER\r\n', 'THALIA BOONE\r\n', 'RANDALL WOODWARD\r\n', 'MATIAS LEONARD\r\n', 'JULIUS MALDONADO\r\n', 'FRANKLIN LINDSEY\r\n', 'AMIRA WU\r\n', 'RICKY HURLEY\r\n', 'HAMZA EATON\r\n', 'CASH ZUNIGA\r\n', 'JEREMY ONEAL\r\n', 'BLAKE MARTINEZ\r\n', 'ARACELI AVILA\r\n', 'ABBY WU\r\n']
+['GUILLERMO DE LACERDA\r\n', 'ISA BIN OSMAN\r\n', 'MAO ZE DONG\r\n', 'MAO ZE MIN\r\n', 'VELIKKAKATHU SANKARAN ACHUTHANANDAN\r\n', 'ABU KARIM MUHAMMAD AL-JAMIL IBN NIDAL IBN ABDULAZIZ AL-FILISTINI\r\n', 'THAKSIN SHINAWATRA\r\n', 'BLAZE IBARRA\r\n', 'XIOMARA AGUIRRE\r\n', 'ADDYSON BENJAMIN\r\n', 'PAYTON WEBER\r\n', 'DONALD SALAZAR\r\n', 'SKYLER JEFFERSON\r\n', 'ELIANNA NGUYEN\r\n', 'AZARIA FOSTER\r\n', 'PAITYN CANTU\r\n', 'IRENE HOLDER\r\n', 'LANDYN LUTZ\r\n', 'DEEGAN ARNOLD\r\n', 'MAGDALENA MOYER\r\n', 'KELSIE PARRISH\r\n', 'ARI SNYDER\r\n', 'MARKUS CERVANTES\r\n', 'BRILEY HESS\r\n', 'SONIA SELLERS\r\n', 'CLAIRE WALLACE\r\n', 'ELLIS DAVIDSON\r\n', 'KELVIN RAYMOND\r\n', 'ROY RICHMOND\r\n', 'ALLYSON LEACH\r\n', 'SALVATORE JAMES\r\n', 'TOMMY TORRES\r\n', 'MADILYN BATES\r\n', 'ABRIL KIRK\r\n', 'ITZEL ROGERS\r\n', 'TERESA TERRY\r\n', 'CALEB HESS\r\n', 'BRIANNA PAYNE\r\n', 'ZOE HALEY\r\n', 'SHYANNE CHASE\r\n', 'KAI NAVARRO\r\n', 'MARCO MERCER\r\n', 'ERICK SANTOS\r\n', 'SHAYLEE MUNOZ\r\n', 'MAXIMO BRADFORD\r\n', 'GEMMA SALAS\r\n', 'JOSH VALENTINE\r\n', 'LEVI OWENS\r\n', 'KIERAN VILLARREAL\r\n', 'ASHER FLORES\r\n', 'MADILYN WATERS\r\n', 'KELLEN CABRERA\r\n', 'LUCY FERNANDEZ\r\n', 'BROGAN HAAS\r\n', 'EZEKIEL CONRAD\r\n', 'WHITNEY ALEXANDER\r\n', 'JORGE GRIFFIN\r\n', 'ARMANI PRICE\r\n', 'DAVID MILLS\r\n', 'MARGARET ANDREWS\r\n', 'VERONICA DOYLE\r\n', 'RAINA FERGUSON\r\n', 'SHERLYN BRENNAN\r\n', 'KALE CRAWFORD\r\n', 'STEVE SCHULTZ\r\n', 'TRISTEN JORDAN\r\n', 'ALISHA MELTON\r\n', 'WILLIAM IRWIN\r\n', 'BRAELYN HINTON\r\n', 'SEAN PETTY\r\n', 'VERONICA DAVILA\r\n', 'COLBY SANTOS\r\n', 'JEAN MEADOWS\r\n', 'JOLIE BENSON\r\n', 'EMELIA BENNETT\r\n', 'ANNALISE DELGADO\r\n', 'REECE MALONE\r\n', 'MARTIN GLOVER\r\n', 'ASHLEY DANIELS\r\n', 'JORDYN CARR\r\n', 'AINSLEY COPELAND\r\n', 'CHARLIE MURPHY\r\n', 'LEANDRO HESS\r\n', 'JAGGER SCHMITT\r\n', 'JAYLEN MORSE\r\n', 'MADELEINE BRUCE\r\n', 'NATHAN SMITH\r\n', 'MATTEO KOCH\r\n', 'RUSSELL LOPEZ\r\n', 'TYLER RAYMOND\r\n', 'JADA RAYMOND\r\n', 'SEAMUS ADAMS\r\n', 'KIERSTEN BALDWIN\r\n', 'ISLA KANE\r\n', 'ZACHERY HANNA\r\n', 'ADELINE BURNETT\r\n', 'MOHAMED HOOVER\r\n', 'JASLYN TYLER\r\n', 'GEORGIA MAYER\r\n', 'JENNY ONEILL\r\n', 'IRIS MULLEN\r\n', 'KASON FRANKLIN\r\n', 'MAGGIE STEELE\r\n', 'LAURYN KLEIN\r\n', 'DESTINEE BERRY\r\n', 'DAMIAN SCHAEFER\r\n', 'THALIA BOONE\r\n', 'RANDALL WOODWARD\r\n', 'MATIAS LEONARD\r\n', 'JULIUS MALDONADO\r\n', 'FRANKLIN LINDSEY\r\n', 'AMIRA WU\r\n', 'RICKY HURLEY\r\n', 'HAMZA EATON\r\n', 'CASH ZUNIGA\r\n', 'JEREMY ONEAL\r\n', 'BLAKE MARTINEZ\r\n', 'ARACELI AVILA\r\n', 'ABBY WU\r\n']
+J.CHAN
+('added', 'J.CHAN')
+R.HEST
+('added', 'R.HEST')
+C.MOON
+('added', 'C.MOON')
+M.GIBS
+('added', 'M.GIBS')
+E.HARR
+('added', 'E.HARR')
+P.GREE
+('added', 'P.GREE')
+H.HAWK
+('added', 'H.HAWK')
+M.MCCO
+('added', 'M.MCCO')
+J.GONZ
+('added', 'J.GONZ')
+D.BLAC
+('added', 'D.BLAC')
+P.SHEP
+('added', 'P.SHEP')
+S.SHIE
+('added', 'S.SHIE')
+H.WELC
+('added', 'H.WELC')
+K.REID
+('added', 'K.REID')
+D.MUEL
+('added', 'D.MUEL')
+N.ROSS
+('added', 'N.ROSS')
+P.SCHR
+('added', 'P.SCHR')
+C.GUER
+('added', 'C.GUER')
+T.MADD
+('added', 'T.MADD')
+K.LONG
+('added', 'K.LONG')
+C.NUNE
+('added', 'C.NUNE')
+M.BULL
+('added', 'M.BULL')
+L.PAGE
+('added', 'L.PAGE')
+M.HALE
+('added', 'M.HALE')
+A.LEST
+('added', 'A.LEST')
+C.KEMP
+('added', 'C.KEMP')
+L.EDWA
+('added', 'L.EDWA')
+D.VELE
+('added', 'D.VELE')
+L.GRIM
+('added', 'L.GRIM')
+J.HORN
+('added', 'J.HORN')
+W.RIVA
+('added', 'W.RIVA')
+A.NASH
+('added', 'A.NASH')
+K.MATT
+('added', 'K.MATT')
+A.MADD
+('added', 'A.MADD')
+J.PINE
+('added', 'J.PINE')
+A.SALI
+('added', 'A.SALI')
+A.DODS
+('added', 'A.DODS')
+Z.MILL
+('added', 'Z.MILL')
+H.BLEV
+('added', 'H.BLEV')
+J.MAHO
+('added', 'J.MAHO')
+Z.PATR
+('added', 'Z.PATR')
+M.PHAM
+('added', 'M.PHAM')
+B.OSBO
+('added', 'B.OSBO')
+L.BELL
+('added', 'L.BELL')
+K.MCCO
+('added', 'K.MCCO')
+J.SIMO
+('added', 'J.SIMO')
+K.DONO
+('added', 'K.DONO')
+Y.CARP
+('added', 'Y.CARP')
+J.NORR
+('added', 'J.NORR')
+N.CLAR
+('added', 'N.CLAR')
+K.MORE
+('added', 'K.MORE')
+G.ROLL
+('added', 'G.ROLL')
+J.CASE
+('added', 'J.CASE')
+E.VILL
+('added', 'E.VILL')
+M.FARR
+('added', 'M.FARR')
+J.HARD
+('added', 'J.HARD')
+T.COLO
+('added', 'T.COLO')
+R.SING
+('added', 'R.SING')
+S.WILL
+('added', 'S.WILL')
+K.LAND
+('added', 'K.LAND')
+I.HANS
+('added', 'I.HANS')
+D.NORR
+('added', 'D.NORR')
+R.FAUL
+('added', 'R.FAUL')
+A.MADD
+('added', 'A.MADD')
+O.CANT
+('added', 'O.CANT')
+T.HOOV
+('added', 'T.HOOV')
+T.HUGH
+('added', 'T.HUGH')
+T.HARR
+('added', 'T.HARR')
+C.SILV
+('added', 'C.SILV')
+J.LYON
+('added', 'J.LYON')
+J.BEAR
+('added', 'J.BEAR')
+C.NICH
+('added', 'C.NICH')
+A.MAYS
+('added', 'A.MAYS')
+C.ANDR
+('added', 'C.ANDR')
+H.LITT
+('added', 'H.LITT')
+J.MCLA
+('added', 'J.MCLA')
+R.DUNC
+('added', 'R.DUNC')
+J.MERR
+('added', 'J.MERR')
+S.LUTZ
+('added', 'S.LUTZ')
+T.DUNN
+('added', 'T.DUNN')
+D.LAM
+('added', 'D.LAM')
+C.STAF
+('added', 'C.STAF')
+D.DODS
+('added', 'D.DODS')
+K.WILL
+('added', 'K.WILL')
+N.EWIN
+('added', 'N.EWIN')
+J.RAMO
+('added', 'J.RAMO')
+J.SPEA
+('added', 'J.SPEA')
+S.MALO
+('added', 'S.MALO')
+L.SWEE
+('added', 'L.SWEE')
+X.LEE
+('added', 'X.LEE')
+C.NOLA
+('added', 'C.NOLA')
+R.RIGG
+('added', 'R.RIGG')
+F.PENA
+('added', 'F.PENA')
+T.ROWL
+('added', 'T.ROWL')
+S.OCHO
+('added', 'S.OCHO')
+E.SOTO
+('added', 'E.SOTO')
+V.SELL
+('added', 'V.SELL')
+B.WHIT
+('added', 'B.WHIT')
+J.BOWE
+('added', 'J.BOWE')
+G.SCOT
+('added', 'G.SCOT')
+M.LEON
+('added', 'M.LEON')
+G.LACE
+('added', 'G.LACE')
+I.OSMA
+('added', 'I.OSMA')
+M.DONG
+('added', 'M.DONG')
+M.MIN
+('added', 'M.MIN')
+V.ACHU
+('added', 'V.ACHU')
+A.AL-F
+('added', 'A.AL-F')
+T.SHIN
+('added', 'T.SHIN')
+B.IBAR
+('added', 'B.IBAR')
+X.AGUI
+('added', 'X.AGUI')
+A.BENJ
+('added', 'A.BENJ')
+P.WEBE
+('added', 'P.WEBE')
+D.SALA
+('added', 'D.SALA')
+S.JEFF
+('added', 'S.JEFF')
+E.NGUY
+('added', 'E.NGUY')
+A.FOST
+('added', 'A.FOST')
+P.CANT
+('added', 'P.CANT')
+I.HOLD
+('added', 'I.HOLD')
+L.LUTZ
+('added', 'L.LUTZ')
+D.ARNO
+('added', 'D.ARNO')
+M.MOYE
+('added', 'M.MOYE')
+K.PARR
+('added', 'K.PARR')
+A.SNYD
+('added', 'A.SNYD')
+M.CERV
+('added', 'M.CERV')
+B.HESS
+('added', 'B.HESS')
+S.SELL
+('added', 'S.SELL')
+C.WALL
+('added', 'C.WALL')
+E.DAVI
+('added', 'E.DAVI')
+K.RAYM
+('added', 'K.RAYM')
+R.RICH
+('added', 'R.RICH')
+A.LEAC
+('added', 'A.LEAC')
+S.JAME
+('added', 'S.JAME')
+T.TORR
+('added', 'T.TORR')
+M.BATE
+('added', 'M.BATE')
+A.KIRK
+('added', 'A.KIRK')
+I.ROGE
+('added', 'I.ROGE')
+T.TERR
+('added', 'T.TERR')
+C.HESS
+('added', 'C.HESS')
+B.PAYN
+('added', 'B.PAYN')
+Z.HALE
+('added', 'Z.HALE')
+S.CHAS
+('added', 'S.CHAS')
+K.NAVA
+('added', 'K.NAVA')
+M.MERC
+('added', 'M.MERC')
+E.SANT
+('added', 'E.SANT')
+S.MUNO
+('added', 'S.MUNO')
+M.BRAD
+('added', 'M.BRAD')
+G.SALA
+('added', 'G.SALA')
+J.VALE
+('added', 'J.VALE')
+L.OWEN
+('added', 'L.OWEN')
+K.VILL
+('added', 'K.VILL')
+A.FLOR
+('added', 'A.FLOR')
+M.WATE
+('added', 'M.WATE')
+K.CABR
+('added', 'K.CABR')
+L.FERN
+('added', 'L.FERN')
+B.HAAS
+('added', 'B.HAAS')
+E.CONR
+('added', 'E.CONR')
+W.ALEX
+('added', 'W.ALEX')
+J.GRIF
+('added', 'J.GRIF')
+A.PRIC
+('added', 'A.PRIC')
+D.MILL
+('added', 'D.MILL')
+M.ANDR
+('added', 'M.ANDR')
+V.DOYL
+('added', 'V.DOYL')
+R.FERG
+('added', 'R.FERG')
+S.BREN
+('added', 'S.BREN')
+K.CRAW
+('added', 'K.CRAW')
+S.SCHU
+('added', 'S.SCHU')
+T.JORD
+('added', 'T.JORD')
+A.MELT
+('added', 'A.MELT')
+W.IRWI
+('added', 'W.IRWI')
+B.HINT
+('added', 'B.HINT')
+S.PETT
+('added', 'S.PETT')
+V.DAVI
+('added', 'V.DAVI')
+C.SANT
+('added', 'C.SANT')
+J.MEAD
+('added', 'J.MEAD')
+J.BENS
+('added', 'J.BENS')
+E.BENN
+('added', 'E.BENN')
+A.DELG
+('added', 'A.DELG')
+R.MALO
+('added', 'R.MALO')
+M.GLOV
+('added', 'M.GLOV')
+A.DANI
+('added', 'A.DANI')
+J.CARR
+('added', 'J.CARR')
+A.COPE
+('added', 'A.COPE')
+C.MURP
+('added', 'C.MURP')
+L.HESS
+('added', 'L.HESS')
+J.SCHM
+('added', 'J.SCHM')
+J.MORS
+('added', 'J.MORS')
+M.BRUC
+('added', 'M.BRUC')
+N.SMIT
+('added', 'N.SMIT')
+M.KOCH
+('added', 'M.KOCH')
+R.LOPE
+('added', 'R.LOPE')
+T.RAYM
+('added', 'T.RAYM')
+J.RAYM
+('added', 'J.RAYM')
+S.ADAM
+('added', 'S.ADAM')
+K.BALD
+('added', 'K.BALD')
+I.KANE
+('added', 'I.KANE')
+Z.HANN
+('added', 'Z.HANN')
+A.BURN
+('added', 'A.BURN')
+M.HOOV
+('added', 'M.HOOV')
+J.TYLE
+('added', 'J.TYLE')
+G.MAYE
+('added', 'G.MAYE')
+J.ONEI
+('added', 'J.ONEI')
+I.MULL
+('added', 'I.MULL')
+K.FRAN
+('added', 'K.FRAN')
+M.STEE
+('added', 'M.STEE')
+L.KLEI
+('added', 'L.KLEI')
+D.BERR
+('added', 'D.BERR')
+D.SCHA
+('added', 'D.SCHA')
+T.BOON
+('added', 'T.BOON')
+R.WOOD
+('added', 'R.WOOD')
+M.LEON
+('added', 'M.LEON')
+J.MALD
+('added', 'J.MALD')
+F.LIND
+('added', 'F.LIND')
+A.WU
+('added', 'A.WU')
+R.HURL
+('added', 'R.HURL')
+H.EATO
+('added', 'H.EATO')
+C.ZUNI
+('added', 'C.ZUNI')
+J.ONEA
+('added', 'J.ONEA')
+B.MART
+('added', 'B.MART')
+A.AVIL
+('added', 'A.AVIL')
+A.WU
+('added', 'A.WU')
