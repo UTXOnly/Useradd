@@ -23,7 +23,7 @@ class Employees:
 # Declare and initiialize counter variable
 i = 0
 
-# Decalre and initialize lists to seperate employees by group
+# Declare and initialize lists to seperate employees by group
 list_of_names = []
 admins = []
 developers = []
